@@ -1,0 +1,1 @@
+export default function Footer(){return (<footer className='border-t border-white/5 p-6 text-sm text-zinc-400'><div className='max-w-6xl mx-auto'>© {new Date().getFullYear()} Himanshu Pandey</div></footer>);}
